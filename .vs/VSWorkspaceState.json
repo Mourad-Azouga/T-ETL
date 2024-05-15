@@ -1,9 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\ExcelReader",
-    "\\ExcelReader\\ExcelReader"
+    ""
   ],
-  "SelectedNode": "\\ExcelReader\\ExcelReader\\Helper.cs",
+  "SelectedNode": "\\ExcelReader",
   "PreviewInSolutionExplorer": false
 }
